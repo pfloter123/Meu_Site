@@ -49,7 +49,7 @@ h2 {
 .movie-gallery {
     display: flex;
     justify-content: center;
-    gap: 200px;
+    gap: 150px;
     z-index: 2;
     position: relative;
     margin-top: 50px
